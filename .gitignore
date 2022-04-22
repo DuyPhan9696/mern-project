@@ -1,0 +1,4 @@
+server/node_modules
+server/mern.http
+server/.env
+.vscode
