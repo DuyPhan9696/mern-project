@@ -1,0 +1,3 @@
+[submodule "client-nextjs"]
+	path = client-nextjs
+	url = https://github.com/DuyPhan9696/mern-project.git
